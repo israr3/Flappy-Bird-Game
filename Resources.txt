@@ -1,0 +1,10 @@
+download the python and install it link is under:
+https://www.python.org/downloads/
+
+then go to the folder where the game is located:
+click on the search bar and type cmd:
+once the cmd is open then,
+
+
+			type (python main.py). the will be start then press space to start it.
+			you can control it with space key/button.
